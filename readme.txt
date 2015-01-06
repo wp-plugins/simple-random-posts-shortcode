@@ -13,7 +13,7 @@ A simple plugin for rendering random post previews in a list view using shortcod
 A simple plugin for rendering random post previews in a list view using shortcode.
 Supports various options to customize output to your needs.
 
-=== Supported options ===
+= Supported options =
 1. header: <bool>, whether to output header text
 2. show_featured_image: <bool>, whether to output featured post image
 3. featured_image_height: <int>, height of featured image in px
